@@ -21,16 +21,6 @@ video {
   opacity: .4;
 }
 
-h1 {
-  font-size: 3rem;
-  text-transform: uppercase;
-  margin-top: 0;
-  letter-spacing: .3rem;
-}
-
-@media screen and (max-width: 500px) { 
-  div{width:70%;} 
-}
 @media screen and (max-device-width: 800px) {
   html { background: url() #000 no-repeat center center fixed; }
   #bgvid { display: none; }
